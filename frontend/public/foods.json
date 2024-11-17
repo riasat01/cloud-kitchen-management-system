@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "food_name": "Chicken Biryani",
+        "food_image": "https://i.postimg.cc/xTfsDxjS/Chicken-Biryani.jpg",
+        "price": 300,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 1
+    },
+    {
+        "id": 2,
+        "food_name": "Beef Bhuna",
+        "food_image": "https://i.postimg.cc/8Pzbn7wp/beef-bhuna.jpg",
+        "price": 350,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 1
+    },
+    {
+        "id": 3,
+        "food_name": "Fish Curry",
+        "food_image": "https://i.postimg.cc/vTH5jKrq/fish-curry.jpg",
+        "price": 250,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 2
+    },
+    {
+        "id": 4,
+        "food_name": "Vegetable Biryani",
+        "food_image": "https://i.postimg.cc/Gt5Tfmht/veg-biriyani.jpg",
+        "price": 200,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 2
+    },
+    {
+        "id": 5,
+        "food_name": "Prawn Masala",
+        "food_image": "https://i.postimg.cc/xd5C716Q/prawn-masala.jpg",
+        "price": 400,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 3
+    },
+    {
+        "id": 6,
+        "food_name": "Mixed Vegetables",
+        "food_image": "https://i.postimg.cc/02SNvfVc/mixed-veg.jpg",
+        "price": 150,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 3
+    },
+    {
+        "id": 7,
+        "food_name": "Chicken Tikka",
+        "food_image": "https://i.postimg.cc/141sXkvM/chicken-tikka.jpg",
+        "price": 280,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 4
+    },
+    {
+        "id": 8,
+        "food_name": "Mutton Korma",
+        "food_image": "https://i.postimg.cc/T1VYV2LB/Mutton-Korma.jpg",
+        "price": 380,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 4
+    },
+    {
+        "id": 9,
+        "food_name": "Paneer Tikka",
+        "food_image": "https://i.postimg.cc/q7WkW629/paneer-tikka.jpg",
+        "price": 320,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 5
+    },
+    {
+        "id": 10,
+        "food_name": "Dal Makhani",
+        "food_image": "https://i.postimg.cc/Jn39Ksx3/Dal-Makhani.jpg",
+        "price": 180,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 5
+    },
+    {
+        "id": 11,
+        "food_name": "Grilled Fish",
+        "food_image": "https://i.postimg.cc/fbn2FwJ8/Grilled-Fish.jpg.jpg",
+        "price": 320,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 6
+    },
+    {
+        "id": 12,
+        "food_name": "Shrimp Scampi",
+        "food_image": "https://i.postimg.cc/0jQcmjBy/Shrimp-Scampi.jpg",
+        "price": 380,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 6
+    },
+    {
+        "id": 13,
+        "food_name": "Chicken Curry",
+        "food_image": "https://i.postimg.cc/5NQmMhcT/Chicken-Curry.jpg",
+        "price": 250,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 7
+    },
+    {
+        "id": 14,
+        "food_name": "Vegetable Pakora",
+        "food_image": "https://i.postimg.cc/NjwRvLk2/Vegetable-Pakora.jpg",
+        "price": 150,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 7
+    },
+    {
+        "id": 15,
+        "food_name": "Beef Pulao",
+        "food_image": "https://i.postimg.cc/FH9V8DvJ/Beef-Pulao.jpg",
+        "price": 400,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 8
+    },
+    {
+        "id": 16,
+        "food_name": "Mixed Dal",
+        "food_image": "https://i.postimg.cc/ZRkBt5ND/Mixed-Dal.jpg",
+        "price": 200,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 8
+    },
+    {
+        "id": 17,
+        "food_name": "Mutton Curry",
+        "food_image": "https://i.postimg.cc/TPn2bqyC/Mutton-Curry.jpg",
+        "price": 300,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 9
+    },
+    {
+        "id": 18,
+        "food_name": "Aloo Paratha",
+        "food_image": "https://i.postimg.cc/Y0CtT5ds/Aloo-Paratha.jpg",
+        "price": 180,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 9
+    },
+    {
+        "id": 19,
+        "food_name": "Paneer Butter Masala",
+        "food_image": "https://i.postimg.cc/0jbLYPWP/Paneer-Butter-Masala.jpg",
+        "price": 350,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 10
+    },
+    {
+        "id": 20,
+        "food_name": "Chicken Kebab",
+        "food_image": "https://i.postimg.cc/N0DVZ5ZQ/Chicken-Kebab.jpg",
+        "price": 250,
+        "ratings": 0,
+        "number_of_raters": 0,
+        "restaurant_id": 10
+    }
+]

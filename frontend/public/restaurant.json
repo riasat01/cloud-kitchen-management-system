@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "restaurant_name": "Spice & Rice",
+        "restaurant_address": "Gulshan 1, Dhaka",
+        "cover_photo": "https://i.postimg.cc/x1CtqtZV/Spice-Rice.png",
+        "district_id": 1,
+        "ratings": 0,
+        "number_of_raters": 0
+    },
+    {
+        "id": 2,
+        "restaurant_name": "Golden Grill",
+        "restaurant_address": "Lalbagh, Old Dhaka",
+        "cover_photo": "https://i.postimg.cc/XYmcq3F9/Golden-Grill.jpg",
+        "district_id": 2,
+        "ratings": 0,
+        "number_of_raters": 0
+    },
+    {
+        "id": 3,
+        "restaurant_name": "Seafood Haven",
+        "restaurant_address": "Cox's Bazar",
+        "cover_photo": "https://i.postimg.cc/0N1MhNDX/Seafood-Haven.jpg",
+        "district_id": 9,
+        "ratings": 0,
+        "number_of_raters": 0
+    },
+    {
+        "id": 4,
+        "restaurant_name": "Taste of Sylhet",
+        "restaurant_address": "Zinda Bazar, Sylhet",
+        "cover_photo": "https://i.postimg.cc/C1XsBg93/Taste-of-Sylhet.jpg",
+        "district_id": 6,
+        "ratings": 0,
+        "number_of_raters": 0
+    },
+    {
+        "id": 5,
+        "restaurant_name": "Chittagong Bites",
+        "restaurant_address": "Agrabad, Chittagong",
+        "cover_photo": "https://i.postimg.cc/c4NfVXWB/Chittagong-Bites.jpg",
+        "district_id": 3,
+        "ratings": 0,
+        "number_of_raters": 0
+    },
+    {
+        "id": 6,
+        "restaurant_name": "Sundarbans Cafe",
+        "restaurant_address": "Khulna",
+        "cover_photo": "https://i.postimg.cc/W4KkS7Sr/Sundarbans-Cafe.jpg",
+        "district_id": 4,
+        "ratings": 0,
+        "number_of_raters": 0
+    },
+    {
+        "id": 7,
+        "restaurant_name": "Dhaka Delights",
+        "restaurant_address": "Banani, Dhaka",
+        "cover_photo": "https://i.postimg.cc/J4nR4WRr/Dhaka-Delights.jpg",
+        "district_id": 5,
+        "ratings": 0,
+        "number_of_raters": 0
+    },
+    {
+        "id": 8,
+        "restaurant_name": "Bogra Bistro",
+        "restaurant_address": "Bogra",
+        "cover_photo": "https://i.postimg.cc/Vvv21mn2/Bogra-Bistro.jpg",
+        "district_id": 7,
+        "ratings": 0,
+        "number_of_raters": 0
+    },
+    {
+        "id": 9,
+        "restaurant_name": "Rajshahi Retreat",
+        "restaurant_address": "Rajshahi",
+        "cover_photo": "https://i.postimg.cc/W4S94xNV/Rajshahi-Retreat.png",
+        "district_id": 8,
+        "ratings": 0,
+        "number_of_raters": 0
+    },
+    {
+        "id": 10,
+        "restaurant_name": "Barisal Bites",
+        "restaurant_address": "Barisal",
+        "cover_photo": "https://i.postimg.cc/595ZcKvx/Barisal-Bites.png",
+        "district_id": 10,
+        "ratings": 0,
+        "number_of_raters": 0
+    }
+]
