@@ -1,0 +1,312 @@
+[
+    {
+        "id": 1,
+        "district": "Dhaka",
+        "district_image": "https://i.postimg.cc/wMdM14Tq/dhaka-image.jpg"
+    },
+    {
+        "id": 2,
+        "district": "Chittagong",
+        "district_image": "https://i.postimg.cc/rF3b562N/chittagong-image.jpg"
+    },
+    {
+        "id": 3,
+        "district": "Khulna",
+        "district_image": "https://i.postimg.cc/4d2wZtJQ/khulna-image.jpg"
+    },
+    {
+        "id": 4,
+        "district": "Rajshahi",
+        "district_image": "https://i.postimg.cc/65pcqM7L/rajshahi-image.jpg"
+    },
+    {
+        "id": 5,
+        "district": "Barisal",
+        "district_image": "https://i.postimg.cc/PJTjYgGq/barial-images.jpg"
+    },
+    {
+        "id": 6,
+        "district": "Sylhet",
+        "district_image": "https://i.postimg.cc/LXdgP3Hs/sylhet.jpg"
+    },
+    {
+        "id": 7,
+        "district": "Rangpur",
+        "district_image": "https://i.postimg.cc/d0cJmHTg/Rangpur.jpg"
+    },
+    {
+        "id": 8,
+        "district": "Mymensingh",
+        "district_image": "https://i.postimg.cc/vTkJ8TrC/Mymensingh.jpg"
+    },
+    {
+        "id": 9,
+        "district": "Cox's Bazar",
+        "district_image": "https://i.postimg.cc/T374TpT0/Cox-s-Bazar.jpg"
+    },
+    {
+        "id": 10,
+        "district": "Jessore",
+        "district_image": "https://i.postimg.cc/Tww2pybP/Jessore.jpg"
+    },
+    {
+        "id": 11,
+        "district": "Narayanganj",
+        "district_image": "https://i.postimg.cc/zDTD31bK/Narayanganj.jpg"
+    },
+    {
+        "id": 12,
+        "district": "Comilla",
+        "district_image": "https://i.postimg.cc/x1J4T9qS/Comilla.jpg"
+    },
+    {
+        "id": 13,
+        "district": "Dinajpur",
+        "district_image": "https://i.postimg.cc/cCvQM4px/Dinajpur.jpg"
+    },
+    {
+        "id": 14,
+        "district": "Bogra",
+        "district_image": "https://i.postimg.cc/wMNkYj0W/Bogra.jpg"
+    },
+    {
+        "id": 15,
+        "district": "Brahmanbaria",
+        "district_image": "https://i.postimg.cc/mgktP5G4/Brahmanbaria.jpg"
+    },
+    {
+        "id": 16,
+        "district": "Tangail",
+        "district_image": "https://i.postimg.cc/L4ySJ64q/Tangail.jpg"
+    },
+    {
+        "id": 18,
+        "district": "Jamalpur",
+        "district_image": "https://i.postimg.cc/26Sztq8D/jamalpur.jpg"
+    },
+    {
+        "id": 19,
+        "district": "Narsingdi",
+        "district_image": "https://i.postimg.cc/dV93ScmG/narsingdi-1.jpg"
+    },
+    {
+        "id": 21,
+        "district": "Faridpur",
+        "district_image": "https://i.postimg.cc/QM0BVZFj/Faridpur.jpg"
+    },
+    {
+        "id": 22,
+        "district": "Pabna",
+        "district_image": "https://i.postimg.cc/65f4FZB7/Pabna.jpg"
+    },
+    {
+        "id": 23,
+        "district": "Patuakhali",
+        "district_image": "https://i.postimg.cc/ZnyFr5N8/Patuakhali.jpg"
+    },
+    {
+        "id": 24,
+        "district": "Noakhali",
+        "district_image": "https://i.postimg.cc/W1SWptwz/Noakhali.jpg"
+    },
+    {
+        "id": 25,
+        "district": "Kushtia",
+        "district_image": "https://example.com/kushtia_image.jpg"
+    },
+    {
+        "id": 26,
+        "district": "Naogaon",
+        "district_image": "https://example.com/naogaon_image.jpg"
+    },
+    {
+        "id": 27,
+        "district": "Cox's Bazar",
+        "district_image": "https://example.com/coxs_bazar_image.jpg"
+    },
+    {
+        "id": 28,
+        "district": "Natore",
+        "district_image": "https://example.com/natore_image.jpg"
+    },
+    {
+        "id": 29,
+        "district": "Joypurhat",
+        "district_image": "https://example.com/joypurhat_image.jpg"
+    },
+    {
+        "id": 30,
+        "district": "Meherpur",
+        "district_image": "https://example.com/meherpur_image.jpg"
+    },
+    {
+        "id": 31,
+        "district": "Chapainawabganj",
+        "district_image": "https://example.com/chapainawabganj_image.jpg"
+    },
+    {
+        "id": 32,
+        "district": "Feni",
+        "district_image": "https://example.com/feni_image.jpg"
+    },
+    {
+        "id": 33,
+        "district": "Bagerhat",
+        "district_image": "https://example.com/bagerhat_image.jpg"
+    },
+    {
+        "id": 34,
+        "district": "Moulvibazar",
+        "district_image": "https://example.com/moulvibazar_image.jpg"
+    },
+    {
+        "id": 35,
+        "district": "Gazipur",
+        "district_image": "https://example.com/gazipur_image.jpg"
+    },
+    {
+        "id": 36,
+        "district": "Sherpur",
+        "district_image": "https://example.com/sherpur_image.jpg"
+    },
+    {
+        "id": 37,
+        "district": "Panchagarh",
+        "district_image": "https://example.com/panchagarh_image.jpg"
+    },
+    {
+        "id": 38,
+        "district": "Jamalpur",
+        "district_image": "https://example.com/jamalpur_image.jpg"
+    },
+    {
+        "id": 39,
+        "district": "Rangamati",
+        "district_image": "https://example.com/rangamati_image.jpg"
+    },
+    {
+        "id": 40,
+        "district": "Kushtia",
+        "district_image": "https://example.com/kushtia_image.jpg"
+    },
+    {
+        "id": 41,
+        "district": "Thakurgaon",
+        "district_image": "https://example.com/thakurgaon_image.jpg"
+    },
+    {
+        "id": 42,
+        "district": "Bogra",
+        "district_image": "https://example.com/bogra_image.jpg"
+    },
+    {
+        "id": 43,
+        "district": "Kishoreganj",
+        "district_image": "https://example.com/kishoreganj_image.jpg"
+    },
+    {
+        "id": 44,
+        "district": "Magura",
+        "district_image": "https://example.com/magura_image.jpg"
+    },
+    {
+        "id": 45,
+        "district": "Manikganj",
+        "district_image": "https://example.com/manikganj_image.jpg"
+    },
+    {
+        "id": 46,
+        "district": "Narail",
+        "district_image": "https://example.com/narail_image.jpg"
+    },
+    {
+        "id": 47,
+        "district": "Pirojpur",
+        "district_image": "https://example.com/pirojpur_image.jpg"
+    },
+    {
+        "id": 48,
+        "district": "Bandarban",
+        "district_image": "https://example.com/bandarban_image.jpg"
+    },
+    {
+        "id": 49,
+        "district": "Satkhira",
+        "district_image": "https://example.com/satkhira_image.jpg"
+    },
+    {
+        "id": 50,
+        "district": "Netrokona",
+        "district_image": "https://example.com/netrokona_image.jpg"
+    },
+    {
+        "id": 51,
+        "district": "Jhalokati",
+        "district_image": "https://i.postimg.cc/tJSdQVjG/Jhalokati.jpg"
+    },
+    {
+        "id": 52,
+        "district": "Sunamganj",
+        "district_image": "https://i.postimg.cc/0NPsF62N/Sunamganj.jpg"
+    },
+    {
+        "id": 53,
+        "district": "Narayanganj",
+        "district_image": "https://example.com/narayanganj_image.jpg"
+    },
+    {
+        "id": 54,
+        "district": "Narayanganj",
+        "district_image": "https://example.com/narayanganj_image.jpg"
+    },
+    {
+        "id": 55,
+        "district": "Narayanganj",
+        "district_image": "https://example.com/narayanganj_image.jpg"
+    },
+    {
+        "id": 56,
+        "district": "Narayanganj",
+        "district_image": "https://example.com/narayanganj_image.jpg"
+    },
+    {
+        "id": 57,
+        "district": "Narayanganj",
+        "district_image": "https://example.com/narayanganj_image.jpg"
+    },
+    {
+        "id": 58,
+        "district": "Narayanganj",
+        "district_image": "https://example.com/narayanganj_image.jpg"
+    },
+    {
+        "id": 59,
+        "district": "Narayanganj",
+        "district_image": "https://example.com/narayanganj_image.jpg"
+    },
+    {
+        "id": 60,
+        "district": "Narayanganj",
+        "district_image": "https://example.com/narayanganj_image.jpg"
+    },
+    {
+        "id": 61,
+        "district": "Narayanganj",
+        "district_image": "https://example.com/narayanganj_image.jpg"
+    },
+    {
+        "id": 62,
+        "district": "Narayanganj",
+        "district_image": "https://example.com/narayanganj_image.jpg"
+    },
+    {
+        "id": 63,
+        "district": "Narayanganj",
+        "district_image": "https://example.com/narayanganj_image.jpg"
+    },
+    {
+        "id": 64,
+        "district": "Narayanganj",
+        "district_image": "https://example.com/narayanganj_image.jpg"
+    }
+]
